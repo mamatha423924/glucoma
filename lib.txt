@@ -1,0 +1,9 @@
+pip install opencv-python
+pip install opencv-contrib-python
+pip install tqdm
+pip install imutils
+pip install tflearn
+pip install matplotlib
+pip install pandas
+pip install flask
+pip install tensorflow==2.7.0
